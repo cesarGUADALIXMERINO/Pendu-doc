@@ -1,3 +1,3 @@
-# Pendu-doc## Tallarita et Guadalix vont niquer le game
+# Pendu-doc
 
 ## Tallarita et Guadalix vont niquer le game
