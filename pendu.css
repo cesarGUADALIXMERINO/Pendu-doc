@@ -1,0 +1,53 @@
+body{
+    background-color:  rgb(40,130,190);
+}
+
+img{
+     background-color: rgb(77,235,45);
+     box-shadow: 13px 8px 8px 0px rgba(0,0,0,0.75);
+}
+
+h1{
+    text-align: center;
+    border: solid 5px black;
+    background-color: rgb(240,70,65);
+    box-shadow: 7px 11px 5px 0px rgba(0,0,0,0.75);
+    margin: 25px 540px;
+}
+
+div#main {
+    text-align: center;
+}
+
+table {
+    margin: 10px auto 10px auto;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+td {
+    border-bottom: 3px solid gray;
+    width: 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+form {
+    margin-top: 20px;
+    vertical-align: middle;
+}
+
+input[type='submit'] {
+	padding: 5px;
+	font-size: 110%;
+}
+
+input[type='text'] {
+    font-size: 140%;
+    width: 40px;
+}
+#bravo{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
